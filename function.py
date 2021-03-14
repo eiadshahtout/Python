@@ -1,4 +1,4 @@
-spam = 1
-while spam < 5:
-    print("Hello World")
-    spam = spam + 1
+def my_function():
+  print("Hello from a function")
+
+my_function()
