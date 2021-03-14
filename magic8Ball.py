@@ -6,7 +6,7 @@ def getAnswer(answerNumber):
     elif answerNumber == 2:
            return 'It is decidedly so'
     elif answerNumber == 3:
-           return 'Yes'
+           return 'Yes '
     elif answerNumber == 4:
            return 'Reply hazy try again'
     elif answerNumber == 5:
@@ -14,7 +14,7 @@ def getAnswer(answerNumber):
     elif answerNumber == 6:
            return 'Concentrate and ask again'
     elif answerNumber == 7:
-           return 'My reply is no'
+           return 'My reply has to be a no'
     elif answerNumber == 8:
            return 'Outlook not so good'
     elif answerNumber == 9:
