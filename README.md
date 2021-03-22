@@ -1,22 +1,10 @@
-# Size Limit [![Cult Of Martians][cult-img]][cult]
+# Python Porjects [![Cult Of Martians][cult-img]][cult]
 
-<img src="https://ai.github.io/size-limit/logo.svg" align="right"
-     alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dev-cafe.org%2Faspiring-data-scientist-learning-python-great-place-start%2Fpython-logo-3-6%2F&psig=AOvVaw0W2ycwNWJAGd_2qWD7qtBg&ust=1616477726110000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjKv_mWw-8CFQAAAAAdAAAAABAD" align="right"
+     alt="Python3 logo by Eiad Shahtout" width="120" height="178">
 
-Size Limit is a performance budget tool for JavaScript. It checks every commit
-on CI, calculates the real cost of your JS for end-users and throws an error
-if the cost exceeds the limit.
+These Python projects are pretty simple! But i'm still learning python and so have to expierence in some way. Overall, I think Python is very powerful and can help me in making new projects in the future :)
 
-* **ES modules** and **tree-shaking** support.
-* Add Size Limit to **Travis CI**, **Circle CI**, **GitHub Actions**
-  or another CI system to know if a pull request adds a massive dependency.
-* **Modular** to fit different use cases: big JS applications
-  that use their own bundler or small npm libraries with many files.
-* Can calculate **the time** it would take a browser
-  to download and **execute** your JS. Time is a much more accurate
-  and understandable metric compared to the size in bytes.
-* Calculations include **all dependencies and polyfills**
-  used in your JS.
 
 <p align="center">
   <img src="./img/example.png" alt="Size Limit CLI" width="738">
