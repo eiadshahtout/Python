@@ -1,5 +1,5 @@
 import json
 
-data = json.load(open('/Users/mshahtout/Documents/Programming/Json/test.json'))
+data = json.load(open('test.json'))
 
 print(data)
