@@ -1,11 +1,11 @@
 {  
     "employee1": {  
-        "name":       "Eiad",   
+        "name":       "James",   
         "salary":      110000,   
         "married":    false  
 	}, 
 	"employee2": {  
-        "name":       "sonoo",   
+        "name":       "John",   
         "salary":      56000,   
         "married":    true  
     }  
