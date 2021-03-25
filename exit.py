@@ -1,18 +1,24 @@
 import sys
 
-print("1.Type a number ")
-print("2.Exit the program ")
-response = int(input(""))
+def func2():
+    print("1.Type a number ")
+    print("2.Exit the program ")
+    global response 
+    response = int(input())
+    
+
+func2()
 
 def func1():
-    while True:
         print('Are you sure ? ') 
-        print("Yes or N\no")
+        print("Yes or No")
         response = input()
         if response == 'Yes':
             sys.exit()
         elif response == "yes":
             sys.exit()
+        else:
+            func2()
 
 if response == 1:
     secondresponse = input("Print a number ")
