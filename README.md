@@ -1,6 +1,6 @@
 # Python Projects
 
-Some simple Python projects, Python is an interpreted, high-level and general-purpose programming language which I am willing to learn to contribute to many projects in the future!!!
+Some simple Python projects, Python is an interpreted, high-level and general-purpose programming language which I am willing to learn to contribute to many projects in the future!
 
 ## Getting Started
 

@@ -7,7 +7,7 @@ response = int(input(""))
 def func1():
     while True:
         print('Are you sure ? ') 
-        print("Yes or No")
+        print("Yes or N\no")
         response = input()
         if response == 'Yes':
             sys.exit()
