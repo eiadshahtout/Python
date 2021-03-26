@@ -9,7 +9,7 @@ if "Peacjes" in favouriteFruits:
 else:
     print("You don't like peaches")
 if "Apples"in favouriteFruits:
-    print("You really like apples")
+    print("You really like apples!")
 else:
     print("You don't like apples")
 
