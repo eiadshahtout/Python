@@ -50,7 +50,6 @@ class Decision_Tree:
         if y.ndim != 1:
             print("Error: Data set labels must be one dimensional")
             return
-
         if len(X) < 2 * self.min_leaf_size:
             self.prediction = np.mean(y)
             return

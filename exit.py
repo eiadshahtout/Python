@@ -6,9 +6,7 @@ def func2():
     global response 
     response = int(input())
     
-
 func2()
-
 def func1():
         print('Are you sure ? ') 
         print("Yes or No")
@@ -25,3 +23,4 @@ if response == 1:
     print ("You typed in "+ secondresponse+ ".")
 elif response == 2:
     func1()
+
