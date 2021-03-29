@@ -1,4 +1,14 @@
-alien_0 = {"colour" : "green", "points" : "50"}
+user_input = {}
 
-new_points = (alien_0["points"])
-print(f"You just earned {new_points} points!")
+print('Enter your name:')
+x = input()
+print('Enter your age:')
+y = input()
+print('Enter your favourite colour')
+z = input()
+
+
+user_input["Name"]= x
+user_input["Age"]= y
+user_input["Colour"]= z
+print(user_input)
