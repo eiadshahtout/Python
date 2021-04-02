@@ -1,3 +1,4 @@
+# This is to find if it's a prime number
 import math
 def primeCheck(number):
     if number % 2 == 0 and number > 2: 
