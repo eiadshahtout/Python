@@ -1,8 +1,7 @@
 import os
 
-file = "deleteme.txt"
-location = "/Users/mshahtout/Documents/Programming"
+file = input("What's the filename to delete? ")
+location = input("Where is it located? ")
 
 path = os.path.join(location,file)
-
 os.remove(path)
