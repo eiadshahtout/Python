@@ -11,7 +11,7 @@ print("-" * 50)
 print("Scanning target "+ target)
 print("Time started" + str(datetime.now())
 try:
-    for port in range(50,85);
+    for port in range(50,95);
     s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
     socket.setdefaulttimeout(1)
     result = s.connect_ex((target_port))
