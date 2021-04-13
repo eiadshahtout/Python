@@ -2,7 +2,7 @@
 import os
 
 file = input("What's the filename to delete? ")
-location = input("Where is it located? ")
+location = input("Where is it located?")
 
 path = os.path.join(location,file)
 os.remove(path)
