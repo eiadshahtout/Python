@@ -1,3 +1,5 @@
 def favourite_book(book):
-    print(f"My favourite book is {book} ")
-favourite_book(input("What's your favourite book? "))
+    print(f"Your favourite book is {book} ")
+
+book = input("What's your favourite book? ")
+favourite_book(book)
