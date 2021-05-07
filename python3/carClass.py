@@ -61,8 +61,7 @@ class Battery():
             print("Upgraded the battery to 85 kWh.")
         else:
             print("The battery is already upgraded.")
-    
-        
+
 class ElectricCar(Car):
     """Models aspects of a car, specific to electric vehicles."""
 

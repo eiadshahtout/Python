@@ -1,3 +1,5 @@
+import tensorflow as tf
+
 def main():
     def n31(a):# a = initial number
         c = 0
