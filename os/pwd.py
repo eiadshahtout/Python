@@ -1,4 +1,4 @@
 import os
 
 pwd = os.getcwd()
-print(f"Your current working directory is {pwd}") 
+print(f"Your current working directory iis {pwd}") 
